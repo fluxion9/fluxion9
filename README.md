@@ -1,6 +1,6 @@
 # Hola! 👋
 ### I am Isaac J. Newton, welcome to my github profile.
-![my avatar](https://github.com/fluxion9/fluxion9/blob/main/isaac_2.jpg#gh-dark-mode-only)
+![my avatar](https://github.com/fluxion9/fluxion9/blob/main/isaac_2.jpg)
 # **About Me**
 I'm an Electronics Engineer, currently studying in University of Nigeria, Nsukka. I am also a goal-oriented learner with explicit professionalism in Physics and Quantum mechanics, Programming and Software Development, Hardware and Electronics, Data science and Analytics, Machine Learning and Artificial Intelligence, and most importantly, Research and Development.
 
